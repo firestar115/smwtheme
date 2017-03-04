@@ -5,7 +5,7 @@ android {
     buildToolsVersion "25.0.2"
 
     defaultConfig {
-        applicationId "com.otabi.firestar.smw"
+        applicationId "com.otabi.firestar.smwtheme"
         minSdkVersion 23
         targetSdkVersion 25
         versionCode 2
